@@ -6,27 +6,27 @@ This repository documents my journey through various network security challenges
 ## Structure
 
 - **WriteUps/**  
- Comprehensive markdown documentation for each challenge, including:
- - Detailed methodology
- - Technical analysis
- - Solution walkthrough
- - Lessons learned
+   Comprehensive markdown documentation for each challenge, including:
+   - Detailed methodology
+   - Technical analysis
+   - Solution walkthrough
+   - Lessons learned
 
 - **Scripts/**  
- Implementation code used to solve the challenges:
- - Python scripts
- - Shell utilities
- - Helper functions
+   Implementation code used to solve the challenges:
+   - Python scripts
+   - Shell utilities
+   - Helper functions
 
 - **Media/**  
- Supporting visual documentation:
- - Wireshark captures
- - Network diagrams
- - Result screenshots
+   Supporting visual documentation:
+   - Wireshark captures
+   - Network diagrams
+   - Result screenshots
 
 - **CTF/**
- Challenge files that don't require SSH connection:
- - challenge1.pcap - Packet capture for "Secret on the Wire"
+   Challenge files that don't require SSH connection:
+   - challenge1.pcap - Packet capture for "Secret on the Wire"
 
 ## Challenges Overview
 
